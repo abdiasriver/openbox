@@ -10,3 +10,20 @@
 #SigLevel = Optional TrustAll
 
 #pacaur -S kickshaw ob-autostart xdg-user-dirs-gtk-update
+
+#polybar
+
+#jgmenu
+#.config/opebox/autostart
+
+
+
+#pacman -Qqe > pkglist.txt
+#sudo pacman -S - < pkglist.txt
+#pacman -S $(cat paquetes)
+#lxapperence  tema archlabs-dark
+
+
+
+
+
