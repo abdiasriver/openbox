@@ -1,0 +1,9 @@
+2018/04/20-20:42:30.496 2552 Reusing MANIFEST /home/abdias/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/04/20-20:42:30.496 2552 Recovering log #4
+2018/04/20-20:42:30.499 2552 Reusing old log /home/abdias/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000004.log 
+2018/04/20-21:34:42.481 15827 Level-0 table #8: started
+2018/04/20-21:34:42.522 15827 Level-0 table #8: 1958635 bytes OK
+2018/04/20-21:34:42.528 15827 Delete type=0 #4
+2018/04/20-22:31:54.481 15827 Level-0 table #10: started
+2018/04/20-22:31:54.528 15827 Level-0 table #10: 1834546 bytes OK
+2018/04/20-22:31:54.534 15827 Delete type=0 #7

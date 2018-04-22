@@ -1,0 +1,221 @@
+/home/abdias/.config/openbox/environment: línea 8: export: `': no es un identificador válido
+polybar|warn:  No monitor specified, using "eDP1"
+conky: no personal or system-wide config file found, using builtin default
+Failed to connect to session manager: No se pudo conectar al gestor de sesión: SESSION_MANAGER environment variable not defined
+conky: desktop window (10f) is root window
+conky: window type - desktop
+conky: drawing to created window (0x1600001)
+
+(thunar:647): Gdk-WARNING **: 23:42:19.544: gdk_window_set_icon_list: icons too large
+
+(thunar:647): Gdk-WARNING **: 23:42:21.096: gdk_window_set_icon_list: icons too large
+
+(geany:709): Gdk-CRITICAL **: 23:42:27.545: gdk_window_beep: assertion 'GDK_IS_WINDOW (window)' failed
+
+(geany:709): Gdk-CRITICAL **: 23:42:27.545: gdk_window_beep: assertion 'GDK_IS_WINDOW (window)' failed
+/usr/sbin/al-conky-pipemenu: Failed to locate saved-sessions in /home/abdias/.config/conky
+conky: received SIGINT or SIGTERM to terminate. bye!
+conky: desktop window (10f) is root window
+conky: window type - desktop
+conky: drawing to created window (0x1600002)
+conky: drawing to double buffer
+conky: forked to background, pid is 1005
+
+/usr/sbin/al-conky-pipemenu: Failed to locate saved-sessions in /home/abdias/.config/conky
+Gtk-Message: 23:43:04.621: GtkDialog mapped without a transient parent. This is discouraged.
+/usr/sbin/al-conky-pipemenu: Failed to locate saved-sessions in /home/abdias/.config/conky
+Gtk-Message: 23:43:42.944: GtkDialog mapped without a transient parent. This is discouraged.
+[1587:1605:0419/234406.582344:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Gtk-Message: 00:35:03.257: GtkDialog mapped without a transient parent. This is discouraged.
+ObRender-Message: 00:36:32.277: Unable to parse color '8FA1B3'
+ObRender-Message: 00:36:32.278: Unable to parse color '2B303B'
+ObRender-Message: 00:36:32.287: Unable to parse color '8FA1B3'
+ObRender-Message: 00:36:32.287: Unable to parse color '2B303B'
+Gtk-Message: 00:37:57.932: GtkDialog mapped without a transient parent. This is discouraged.
+clientwin_handle(): Quitting.
+[21411:21420:0420/004639.825799:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+      launch:INFO ------------------------------------------------
+      launch:INFO    OpenShot (version 2.4.1)
+      launch:INFO ------------------------------------------------
+         app:INFO openshot-qt version: 2.4.1
+         app:INFO libopenshot version: 0.1.9
+         app:INFO platform: Linux-4.14.34-1-lts-x86_64-with-arch
+         app:INFO processor: 
+         app:INFO machine: x86_64
+         app:INFO python version: 3.6.5
+         app:INFO qt5 version: 5.10.1
+         app:INFO pyqt5 version: 5.10.1
+    language:INFO Attempting to load qt_es_MX.UTF-8 in '/usr/share/qt/translations'
+    language:INFO Attempting to load qt_es in '/usr/share/qt/translations'
+    language:INFO Attempting to load es_MX.UTF-8/LC_MESSAGES/OpenShot in '/usr/lib/python3.6/site-packages/openshot_qt/locale'
+    language:INFO Attempting to load es/LC_MESSAGES/OpenShot in '/usr/lib/python3.6/site-packages/openshot_qt/locale'
+    language:INFO Successfully loaded es/LC_MESSAGES/OpenShot in '/usr/lib/python3.6/site-packages/openshot_qt/locale'
+    language:INFO Qt Detected Languages: ['es-MX']
+    language:INFO LANG Environment Variable: es_MX.UTF-8
+    language:INFO LOCALE Environment Variable: es_MX
+    language:INFO Attempting to load qt_es_MX.UTF-8 in '/usr/share/qt/translations'
+    language:INFO Attempting to load qt_es in '/usr/share/qt/translations'
+    language:INFO Attempting to load qtbase_es_MX.UTF-8 in '/usr/share/qt/translations'
+    language:INFO Attempting to load qtbase_es in '/usr/share/qt/translations'
+    language:INFO Attempting to load qt_es_MX.UTF-8 in '/usr/lib/python3.6/site-packages/openshot_qt/locale/QT'
+    language:INFO Attempting to load qt_es in '/usr/lib/python3.6/site-packages/openshot_qt/locale/QT'
+    language:INFO Attempting to load qtbase_es_MX.UTF-8 in '/usr/lib/python3.6/site-packages/openshot_qt/locale/QT'
+    language:INFO Attempting to load qtbase_es in '/usr/lib/python3.6/site-packages/openshot_qt/locale/QT'
+    language:INFO Attempting to load es_MX.UTF-8/LC_MESSAGES/OpenShot in '/usr/lib/python3.6/site-packages/openshot_qt/locale'
+    language:INFO Attempting to load es/LC_MESSAGES/OpenShot in '/usr/lib/python3.6/site-packages/openshot_qt/locale'
+    language:INFO Successfully loaded es/LC_MESSAGES/OpenShot in '/usr/lib/python3.6/site-packages/openshot_qt/locale'
+    language:INFO Exiting translation system (since we successfully loaded: es_MX.UTF-8)
+project_data:INFO Setting default profile to HDV 720 24p
+         app:INFO Setting font to /usr/lib/python3.6/site-packages/openshot_qt/images/fonts/Ubuntu-R.ttf
+logger_libopenshot:INFO Connecting to libopenshot with debug port: 5556
+         app:INFO Setting custom dark theme
+     ui_util:INFO Initializing UI for MainWindow
+     ui_util:INFO Binding event MainWindow:actionNew_trigger
+     ui_util:INFO Binding event MainWindow:actionOpen_trigger
+     ui_util:INFO Binding event MainWindow:actionSave_trigger
+     ui_util:INFO Binding event MainWindow:actionUndo_trigger
+     ui_util:INFO Binding event MainWindow:actionSaveAs_trigger
+     ui_util:INFO Binding event MainWindow:actionImportFiles_trigger
+     ui_util:INFO Binding event MainWindow:actionImportImageSequence_trigger
+     ui_util:INFO Binding event MainWindow:actionRedo_trigger
+     ui_util:INFO Binding event MainWindow:actionRemoveClip_trigger
+     ui_util:INFO Binding event MainWindow:actionRemoveTransition_trigger
+     ui_util:INFO Binding event MainWindow:actionExportVideo_trigger
+     ui_util:INFO Binding event MainWindow:actionUploadVideo_trigger
+     ui_util:INFO Binding event MainWindow:actionAddTrack_trigger
+     ui_util:INFO Binding event MainWindow:actionPreferences_trigger
+     ui_util:INFO Binding event MainWindow:actionPlay_trigger
+     ui_util:INFO Binding event MainWindow:actionJumpStart_trigger
+     ui_util:INFO Binding event MainWindow:actionRewind_trigger
+     ui_util:INFO Binding event MainWindow:actionFastForward_trigger
+     ui_util:INFO Binding event MainWindow:actionJumpEnd_trigger
+     ui_util:INFO Binding event MainWindow:actionArrowTool_trigger
+     ui_util:INFO Binding event MainWindow:actionRazorTool_trigger
+     ui_util:INFO Binding event MainWindow:actionSnappingTool_trigger
+     ui_util:INFO Binding event MainWindow:actionAddMarker_trigger
+     ui_util:INFO Binding event MainWindow:actionPreviousMarker_trigger
+     ui_util:INFO Binding event MainWindow:actionNextMarker_trigger
+     ui_util:INFO Binding event MainWindow:actionFilesShowAll_trigger
+     ui_util:INFO Binding event MainWindow:actionFilesShowVideo_trigger
+     ui_util:INFO Binding event MainWindow:actionFilesShowAudio_trigger
+     ui_util:INFO Binding event MainWindow:actionFilesShowImage_trigger
+     ui_util:INFO Binding event MainWindow:actionTransitionsShowAll_trigger
+     ui_util:INFO Binding event MainWindow:actionTransitionsShowCommon_trigger
+     ui_util:INFO Binding event MainWindow:actionEffectsShowAll_trigger
+     ui_util:INFO Binding event MainWindow:actionEffectsShowVideo_trigger
+     ui_util:INFO Binding event MainWindow:actionEffectsShowAudio_trigger
+     ui_util:INFO Binding event MainWindow:actionTimelineZoomIn_trigger
+     ui_util:INFO Binding event MainWindow:actionTimelineZoomOut_trigger
+     ui_util:INFO Binding event MainWindow:actionTitle_trigger
+     ui_util:WARNING Icon theme font not found. Will use backup icon.
+     ui_util:INFO Binding event MainWindow:actionAnimatedTitle_trigger
+     ui_util:INFO Binding event MainWindow:actionFullscreen_trigger
+     ui_util:INFO Binding event MainWindow:actionAbout_trigger
+     ui_util:INFO Binding event MainWindow:actionThumbnailView_trigger
+     ui_util:INFO Binding event MainWindow:actionDetailsView_trigger
+     ui_util:INFO Binding event MainWindow:actionReportBug_trigger
+     ui_util:INFO Binding event MainWindow:actionAskQuestion_trigger
+     ui_util:INFO Binding event MainWindow:actionTranslate_trigger
+     ui_util:WARNING Icon theme stock_person not found. Will use backup icon.
+     ui_util:INFO Binding event MainWindow:actionDonate_trigger
+     ui_util:INFO Binding event MainWindow:actionHelpContents_trigger
+     ui_util:INFO Binding event MainWindow:actionSimple_View_trigger
+     ui_util:INFO Binding event MainWindow:actionAdvanced_View_trigger
+     ui_util:INFO Binding event MainWindow:actionFreeze_View_trigger
+     ui_util:WARNING Icon theme locked not found. Will use backup icon.
+     ui_util:INFO Binding event MainWindow:actionUn_Freeze_View_trigger
+     ui_util:WARNING Icon theme locked not found. Will use backup icon.
+     ui_util:INFO Binding event MainWindow:actionShow_All_trigger
+     ui_util:INFO Binding event MainWindow:actionProfile_trigger
+     ui_util:INFO Binding event MainWindow:actionAdd_to_Timeline_trigger
+     ui_util:INFO Binding event MainWindow:actionPreview_File_trigger
+     ui_util:INFO Binding event MainWindow:actionRemove_from_Project_trigger
+     ui_util:INFO Binding event MainWindow:actionFile_Properties_trigger
+     ui_util:INFO Binding event MainWindow:actionRemoveTrack_trigger
+     ui_util:INFO Binding event MainWindow:actionRemoveMarker_trigger
+     ui_util:INFO Binding event MainWindow:actionAddTrackAbove_trigger
+     ui_util:INFO Binding event MainWindow:actionAddTrackBelow_trigger
+     ui_util:INFO Binding event MainWindow:actionRemoveEffect_trigger
+     ui_util:INFO Binding event MainWindow:actionSplitClip_trigger
+     ui_util:INFO Binding event MainWindow:actionProperties_trigger
+     ui_util:INFO Binding event MainWindow:actionRenameTrack_trigger
+     ui_util:INFO Binding event MainWindow:actionUpdate_trigger
+     ui_util:INFO Binding event MainWindow:actionTutorial_trigger
+     ui_util:INFO Binding event MainWindow:actionAnimation_trigger
+     ui_util:INFO Binding event MainWindow:actionLockTrack_trigger
+     ui_util:INFO Binding event MainWindow:actionUnlockTrack_trigger
+     ui_util:INFO Binding event MainWindow:actionEditTitle_trigger
+     ui_util:INFO Binding event MainWindow:actionDuplicateTitle_trigger
+     ui_util:INFO Binding event MainWindow:actionClearHistory_trigger
+files_listview:INFO currentChanged
+files_listview:INFO updateSelection
+ files_model:INFO updating files model.
+transition_model:INFO updating transitions model.
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=808d52f0-8a28-45df-bd9f-700ac09133a9&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.4.1&ul=es-mx&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.1.9&cd2=3.6.5&cd3=5.10.1&cd4=5.10.1&cd5=arch--&t=screenview&cd=initial-launch-screen | GIF89a  €ÿ ÿÿÿ   ,       D ;
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=808d52f0-8a28-45df-bd9f-700ac09133a9&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.4.1&ul=es-mx&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.1.9&cd2=3.6.5&cd3=5.10.1&cd4=5.10.1&cd5=arch--&t=screenview&cd=main-screen | GIF89a  €ÿ ÿÿÿ   ,       D ;
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.4.1&ul=es-mx&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.1.9&cd2=3.6.5&cd3=5.10.1&cd4=5.10.1&cd5=arch--&t=screenview&sc=start&cd=launch-app | GIF89a  €ÿ ÿÿÿ   ,       D ;
+     version:INFO Found current version: {"openshot_version": "2.4.1"}
+effects_model:INFO updating effects model.
+effects_model:INFO category: Video
+effects_model:INFO category: Video
+effects_model:INFO category: Video
+effects_model:INFO category: Video
+effects_model:INFO category: Video
+effects_model:INFO category: Video
+effects_model:INFO category: Video
+ main_window:INFO foundCurrentVersion: Found the latest version: 2.4.1
+properties_model:INFO updating clip properties model.
+ main_window:INFO InitCacheSettings
+ main_window:INFO cache-mode: CacheMemory
+ main_window:INFO cache-limit-mb: 250
+ main_window:INFO Creating CacheMemory object with 262144000 byte limit
+preview_thread:INFO QThread Start Method Invoked
+preview_thread:INFO initPlayer
+ main_window:INFO Clear all thumbnails: /home/abdias/.openshot_qt/thumbnail
+ main_window:INFO Clear all animations: /home/abdias/.openshot_qt/blender
+ main_window:INFO Clear all assets: /home/abdias/.openshot_qt/assets
+ main_window:INFO Clear all backups: /home/abdias/.openshot_qt/backup
+    tutorial:INFO process tutorial dialogs
+ main_window:INFO updateStatusChanged
+         app:INFO Process command-line arguments: ['/usr/sbin/openshot-qt']
+ main_window:INFO recover_backup
+project_data:INFO Setting default profile to HDV 720 24p
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+timeline_webview:ERROR TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetTrackLabel('Pista %s');
+timeline_webview:ERROR TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().LoadJson({"type": "load", "key": "", "value": {"id": "T0", "fps": {"num": 24, "den": 1}, "width": 1280, "height": 720, "sample_rate": 44100, "channels": 2, "channel_layout": 3, "settings": {}, "clips": [], "effects": [], "export_path": "", "files": [], "duration": 300, "scale": 16, "tick_pixels": 100, "playhead_position": 0, "profile": "HDV 720 24p", "layers": [{"id": "L0", "label": "", "number": 0, "y": 0, "lock": false}, {"id": "L1", "label": "", "number": 1, "y": 0, "lock": false}, {"id": "L2", "label": "", "number": 2, "y": 0, "lock": false}, {"id": "L3", "label": "", "number": 3, "y": 0, "lock": false}, {"id": "L4", "label": "", "number": 4, "y": 0, "lock": false}], "markers": [], "progress": [], "history": {"undo": [], "redo": []}, "version": {"openshot-qt": "0.0.0", "libopenshot": "0.0.0"}}, "partial": false, "old_values": null});
+ main_window:INFO updateStatusChanged
+
+(gst-plugin-scanner:21788): GStreamer-WARNING **: 00:47:47.130: Failed to load plugin '/usr/lib/gstreamer-1.0/libgstfluidsynthmidi.so': libfluidsynth.so.1: cannot open shared object file: No such file or directory
+
+(gst-plugin-scanner:21788): GStreamer-WARNING **: 00:47:47.146: Failed to load plugin '/usr/lib/gstreamer-1.0/libgstlv2.so': liblilv-0.so.0: cannot open shared object file: No such file or directory
+
+(gst-plugin-scanner:21788): GStreamer-WARNING **: 00:47:47.206: Failed to load plugin '/usr/lib/gstreamer-1.0/libgstopencv.so': libopencv_bgsegm.so.3.4: cannot open shared object file: No such file or directory
+
+(gst-plugin-scanner:21788): GStreamer-WARNING **: 00:47:47.307: Failed to load plugin '/usr/lib/gstreamer-1.0/libgstzbar.so': libzbar.so.0: cannot open shared object file: No such file or directory
+timeline_webview:ERROR TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetSnappingMode(1);
+timeline_webview:ERROR TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().MovePlayheadToFrame(1);
+preview_thread:INFO onModeChanged
+timeline_webview:INFO Qt Found!
+timeline_webview:INFO $scope.Qt = true;
+properties_model:INFO Update item: 
+properties_model:INFO updating clip properties model.
+timeline_webview:INFO UpdateLayerIndex
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+    timeline:INFO Adjusting max size of preview image: PyQt5.QtCore.QRect(57, 0, 700, 394)
+timeline_webview:INFO UpdateLayerIndex
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=808d52f0-8a28-45df-bd9f-700ac09133a9&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.4.1&ul=es-mx&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.1.9&cd2=3.6.5&cd3=5.10.1&cd4=5.10.1&cd5=arch--&t=screenview&cd=metrics-opt-out | GIF89a  €ÿ ÿÿÿ   ,       D ;
+    tutorial:INFO next_tip
+    tutorial:INFO hide_tips
+    tutorial:INFO process tutorial dialogs
+    tutorial:INFO hide_tips
+    tutorial:INFO process tutorial dialogs
+    tutorial:INFO process tutorial dialogs
+    tutorial:INFO process tutorial dialogs
+    tutorial:INFO process tutorial dialogs
+    tutorial:INFO process tutorial dialogs
+    tutorial:INFO process tutorial dialogs
+preview_thread:INFO onModeChanged
+preview_thread:INFO exiting thread
+[1587:1598:0420/005445.296660:ERROR:connection_factory_impl.cc(416)] Failed to connect to MCS endpoint with error -106

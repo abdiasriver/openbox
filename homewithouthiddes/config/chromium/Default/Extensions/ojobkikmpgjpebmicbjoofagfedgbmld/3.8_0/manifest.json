@@ -1,0 +1,22 @@
+{
+   "content_scripts": [ {
+      "css": [ "styler.css" ],
+      "js": [ "scdler.js", "browser-id3-writer.4.0.0.js", "FileSaver.min.js" ],
+      "matches": [ "http://*.soundcloud.com/*", "https://*.soundcloud.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "FREE! DOWNLOADS .mp3 Adds COVER ART, ARTIST, GENRE, TRACKNAME !!",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmzdEG7ZbkXL0oa1NckoYhcEI4HcIt5qQ8kxO5AoMOpLXasI2d4KIBgNyGgIX4tp6x8mIRQZmCOxQ6CRlx+sFTf3uAXBKVf5ndyNC7LKA28PtvfhAkH1FYYwWXn9H1kHmpiskw7HRbQkyw6hcOaouRy2qBhgC/meE+5oJoSrWTWnNuThwjOY+F5bYQTSKIqPlMSMNXWWsyq4yCKAGmTrFOXo3eYs/WqVwkHhH31lSbkdW5il1GzU/OgVHo4fzjC4ZqMdJRolHVnbX8x7T5tth9PMIVrJR5Adb/btDOy6jOmPhl/eVcpL7UbuQVS+l0gW5QoclE8/zS23/Dk2+Tf431wIDAQAB",
+   "manifest_version": 2,
+   "name": "SCDL SoundCloud Downloader",
+   "permissions": [ "downloads", "http://*.mrvv.net/*", "https://*.mrvv.net/*", "https://*.sndcdn.com/*", "http://*.sndcdn.com/*" ],
+   "short_name": "SCDL FREE!",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.8",
+   "web_accessible_resources": [ "loader.gif" ]
+}

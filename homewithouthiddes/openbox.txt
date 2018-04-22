@@ -1,0 +1,13 @@
+polybar
+
+jgmenu
+
+.config/opebox/autostart
+
+
+
+pacman -Qqe > pkglist.txt
+sudo pacman -S - < pkglist.txt
+pacman -S $(cat paquetes)
+
+lxapperence  tema archlabs-dark

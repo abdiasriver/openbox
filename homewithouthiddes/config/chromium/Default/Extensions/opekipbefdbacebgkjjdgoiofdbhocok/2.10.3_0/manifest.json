@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://speechnotes.co/goto.html"
+      },
+      "urls": [ "https://speechnotes.co/", "https://speechnotes.co/goto.html", "https://speechnotes.co/fr/", "https://speechnotes.co/ar/", "https://speechnotes.co/de/", "https://speechnotes.co/es/", "https://speechnotes.co/it/", "https://speechnotes.co/zh/", "https://speechnotes.co/ja/", "https://speechnotes.co/ru/", "https://speechnotes.co/pt/", "https://www.speechnotes.co/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq8Nwb20IuSVodEv2QP9xqWpL9XSf+zF1yvc+IYJA65oM+CCMPYyRrcloE6kdutvwqWaW2dltFrNNc2oH+J83sW1GgyJ82UhSvr8EpZvHJKrgyiTXb9Ih2yZDJDDmvcf3JPJWVleQV2noqCYwetSg16EoZYkML80JgvZ5pCVJVf0h4sKsgJcBrSsKdSa3xyn1fYufkPJ4X+OirGB81W070p+DoOE/u3/inevQvNY5s1AxiigfbmmFT1t45+OrZ72quxjKUEmpiywiYMnSv2mPAyY57FKzCRj9uiaCEawZ+EdDC3oNzH5hKDERe9+Z31Z70a5zfeb2fzhrZnzZTIrq2QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "short_name": "Speechnotes",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.10.3"
+}

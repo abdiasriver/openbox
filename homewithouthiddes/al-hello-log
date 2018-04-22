@@ -1,0 +1,248 @@
+
+
+Main Question:	Would you like to update the system & mirrorlist (recommended)
+Package Array:	
+Total Options:	0
+Input Name:	upd
+User Answer:	y
+
+Main Question:	Choose additional WMs/DEs
+Package Array:	
+Total Options:	0
+Input Name:	desktop
+User Answer:	y
+
+Main Question:	Available WMs and DEs
+Package Array:	Awesome	-  Highly configurable framework window manager Bspwm	-  Tiling window manager based on binary space partitioning i3 gaps	-  A fork of i3wm with more features including gaps Xfce4	-  A lightweight and modular DE based on GTK+ 2
+Total Options:	4
+Input Name:	window_manager
+User Answer:	0
+
+Main Question:	Select from categories of applications
+Package Array:	
+Total Options:	0
+Input Name:	defaults
+User Answer:	y
+
+Main Question:	Video Capture Software
+Package Array:	SSR		-  A feature-rich screen recorder OBS		-  Free opensource streaming/recording software Guvcview	-  Capture video from camera devices Peek		-  A simple screen recorder for creating gifs
+Total Options:	4
+Input Name:	capture
+User Answer:	1
+
+Main Question:	Video Editors
+Package Array:	Kdenlive	-  A non-linear video editor for Linux Openshot	-  An open-source video editor for Linux Lightworks	-  A professional video editing suite
+Total Options:	3
+Input Name:	video
+User Answer:	2
+
+Main Question:	Available Music Players.. Audacious is the default
+Package Array:	Spotify	-  A proprietary music streaming service Nicotine+	-  A graphical client for Soulseek Lollypop	-  Lollypop is a new GNOME music playing application Rhythmbox	-  Music playback and management application Clementine	-  A modern music player and library organizer
+Total Options:	5
+Input Name:	music
+User Answer:	0
+
+Main Question:	Mpv is the default video player, want to install VLC instead
+Package Array:	
+Total Options:	0
+Input Name:	vlc
+User Answer:	y
+
+Main Question:	Available docks
+Package Array:	Plank	-  Stupidly simple Docky	-  The finest dock no money can buy Cairo Dock	-  Light, eye-candy filled dock and desklets
+Total Options:	3
+Input Name:	dock
+User Answer:	1
+
+Main Question:	Setup & Install Support for Bluetooth
+Package Array:	
+Total Options:	0
+Input Name:	btooth
+User Answer:	n
+
+Main Question:	Setup & Install Support for Printers
+Package Array:	
+Total Options:	0
+Input Name:	printer
+User Answer:	n
+
+Main Question:	Switch to LTS kernel
+Package Array:	
+Total Options:	0
+Input Name:	lts_kernel
+User Answer:	y
+
+Linux LTS Setup: y
+
+Incoming:	obmenu-generator perl-data-dump gtk2-perl perl-linux-desktopfiles
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	hexchat pidgin weechat irssi
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	google-chrome chromium opera qutebrowser
+Install Answer:	
+Remove Answer:	
+Remove/Change:	firefox
+
+Incoming:	google-talkplugin
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	flashplugin
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	atom sublime-text-dev emacs mousepad
+Install Answer:	
+Remove Answer:	
+Remove/Change:	geany
+
+Incoming:	tilix terminator rxvt-unicode tilda xfce4-terminal
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	pcmanfm nautilus nemo
+Install Answer:	
+Remove Answer:	
+Remove/Change:	thunar
+
+Incoming:	xfburn simpleburn k3b
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	xfce4-power-manager
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	xfce4-notifyd
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	dunst
+
+Incoming:	pamac-aur
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	etcher mintstick-git unetbootin etcher-cli
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	spotify nicotine lollypop rhythmbox clementine
+Install Answer:	0
+Remove Answer:	
+Remove/Change:	audacious
+
+Incoming:	qt4 vlc
+Install Answer:	y
+Remove Answer:	None
+Remove/Change:	mpv
+
+Incoming:	gimp inkscape krita
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	simplescreenrecorder obs-studio guvcview peek
+Install Answer:	1
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	kdenlive openshot lwks
+Install Answer:	2
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	libreoffice-still abiword calligra
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	thunderbird geary evolution mutt
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	deluge transmission-gtk qbittorrent
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	gpick gcolor2
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	mpd cava s-tui slurm
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	dropbox
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	oomox wpgtk-git
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	ttf-anonymous-pro ttf-font-awesome ttf-fira-code noto-fonts-emoji ttf-freefont
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	nerd-fonts-complete
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	catfish
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	gnome-disk-utility gnome-system-monitor
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	plank docky cairo-dock
+Install Answer:	1
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	evince zathura qpdfview mupdf
+Install Answer:	
+Remove Answer:	
+Remove/Change:	
+
+Incoming:	steam linux-steam-integration steam-native-runtime
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	dolphin-emu
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Incoming:	minecraft
+Install Answer:	
+Remove Answer:	None
+Remove/Change:	
+
+Install List: qt4 vlc simplescreenrecorder openshot plank
+Remove List: mpv

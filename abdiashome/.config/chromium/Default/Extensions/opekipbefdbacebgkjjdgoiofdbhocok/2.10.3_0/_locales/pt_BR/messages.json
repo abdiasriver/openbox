@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Discurso profissional, reconhecendo editor de texto. Accurate, gratuito, fácil de usar e ilimitado."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Speechnotes - Ditado Notepad"
+   }
+}

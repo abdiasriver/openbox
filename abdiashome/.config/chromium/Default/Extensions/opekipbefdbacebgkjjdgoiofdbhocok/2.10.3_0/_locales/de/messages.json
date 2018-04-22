@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Professioneller Spracherkennungs-Text-Editor. Präzise, ​​kostenlos, einfach zu bedienen und unbegrenzt."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Speechnotes - Diktier-Notepad"
+   }
+}

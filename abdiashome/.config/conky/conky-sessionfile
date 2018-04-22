@@ -1,0 +1,1 @@
+conky -c /home/abdias/.config/conky/ArchLabs.conkyrc & sleep 0.5

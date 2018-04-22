@@ -1,0 +1,37 @@
+{
+   "description": "Fall Forest Theme Theme for Google Chrome and FVD Speed Dial with 3D new tab page [FVD]",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCYi2Q4tC1SmLuRj+7/5zAf2VrIWT0H8WClhmIZSga9HVdPiyxS5Mef0zCs9q4thj3VdsBnhGTQ52EEf6CzWI8gRtLHCX0W3dUqgb0XDVZpzjTRy/EnIqC3pwUhtwSs5giVqx0xFI5Uwe5Rt6X1MB6sv2e6IV/vDQO349YWcoJ6SwIDAQAB",
+   "manifest_version": 2,
+   "name": "Sky and Air Baloon Theme [FVD]",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "button_background": [ 54, 99, 100 ],
+         "frame": [ 108, 199, 200 ],
+         "ntp_background": [ 108, 199, 200 ],
+         "ntp_link": [ 0, 0, 0 ],
+         "ntp_section": [ 54, 99, 100 ],
+         "ntp_section_link": [ 0, 0, 0 ],
+         "ntp_section_text": [ 0, 0, 0 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "tab_background_text": [ 182, 227, 228 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 65, 115, 72 ]
+      },
+      "images": {
+         "theme_frame": "img/frame.jpg",
+         "theme_ntp_background": "img/NTP.jpg",
+         "theme_tab_background": "img/tab.jpg",
+         "theme_tab_background_incognito": "img/tab.jpg",
+         "theme_toolbar": "img/toolbar.jpg"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom"
+      },
+      "tints": {
+         "buttons": [ 1, 1, 1 ]
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

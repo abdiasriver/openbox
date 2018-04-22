@@ -1,0 +1,24 @@
+{
+   "browser_action": {
+      "default_icon": "cosmetic/img/logo.png",
+      "default_popup": "options.html",
+      "default_title": "Super Netflix\n\nClick for Options"
+   },
+   "content_scripts": [ {
+      "css": [ "cosmetic/player.css" ],
+      "js": [ "starter.js" ],
+      "matches": [ "*://*.netflix.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Change video quality, Control video speed, Upload custom subtitles and much more - Make Your Experience on Netflix More Enjoyable.",
+   "icons": {
+      "128": "cosmetic/img/logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoMxuBqpuU3j5+fdoTPU4Gz7CK0We4wYO4KuFyvKDnLbTX8qOI85I1aPx77Ym01BtqKgVKq/hdHpJ/O2RN7Polo43dps8fl2/7fsplOS9MP1+U+d1bibRNtzE2mvpXn1NgbjcT1uVTWFrbQz2W/5SsKeQlPtF643ygEOIrfQzFT4N+HnDuqSvqRsanoAO8Uh0iMqR7FQHhl99pTj9Hec/u7xlShfSrU50fkSMXExWfR66g7T0CYoQP11jougyrMDvQZcxP0+963OHZY9wwvDdsAfOVf1zsXHMvnGy8bgbrqdK1Qxl+tSRRh3BPbROpbeouuFs5zoGdl3VU4OSD/kkIwIDAQAB",
+   "manifest_version": 2,
+   "name": "Super Netflix",
+   "permissions": [ "*://*.netflix.com/*", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.1.6118",
+   "web_accessible_resources": [ "funcs/*", "cosmetic/*" ]
+}

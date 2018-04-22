@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Highest rated speech recognition editor on the Chrome store. Increase productivity for free."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Speechnotes - Speech To Text Notepad"
+   }
+}

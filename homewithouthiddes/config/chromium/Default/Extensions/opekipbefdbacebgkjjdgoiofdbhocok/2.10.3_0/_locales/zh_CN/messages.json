@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "专业语音识别的文本编辑器。准确的，免费的，易于使用和无限。"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Speechnotes |听写记事本"
+   }
+}

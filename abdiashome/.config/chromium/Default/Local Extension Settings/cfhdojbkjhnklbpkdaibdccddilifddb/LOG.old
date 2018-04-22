@@ -1,0 +1,92 @@
+2018/04/20-08:34:04.950 1046 Reusing MANIFEST /home/abdias/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2018/04/20-08:34:04.950 1046 Recovering log #43
+2018/04/20-08:34:04.950 1046 Reusing old log /home/abdias/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000043.log 
+2018/04/20-08:35:06.571 1637 Level-0 table #47: started
+2018/04/20-08:35:06.781 1637 Level-0 table #47: 3319311 bytes OK
+2018/04/20-08:35:06.784 1637 Delete type=0 #43
+2018/04/20-08:36:25.018 1637 Level-0 table #49: started
+2018/04/20-08:36:25.188 1637 Level-0 table #49: 3319333 bytes OK
+2018/04/20-08:36:25.191 1637 Delete type=0 #46
+2018/04/20-09:35:06.682 1637 Level-0 table #51: started
+2018/04/20-09:35:06.906 1637 Level-0 table #51: 3319349 bytes OK
+2018/04/20-09:35:06.910 1637 Delete type=0 #48
+2018/04/20-09:35:06.913 1637 Compacting 4@0 + 2@1 files
+2018/04/20-09:35:07.167 1637 Generated table #52@0: 1 keys, 3319098 bytes
+2018/04/20-09:35:07.170 1637 Generated table #53@0: 2 keys, 336 bytes
+2018/04/20-09:35:07.170 1637 Compacted 4@0 + 2@1 files => 3319434 bytes
+2018/04/20-09:35:07.176 1637 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/04/20-09:35:07.176 1637 Delete type=2 #41
+2018/04/20-09:35:07.177 1637 Delete type=2 #42
+2018/04/20-09:35:07.177 1637 Delete type=2 #44
+2018/04/20-09:35:07.178 1637 Delete type=2 #47
+2018/04/20-09:35:07.180 1637 Delete type=2 #49
+2018/04/20-09:35:07.181 1637 Delete type=2 #51
+2018/04/20-09:35:14.778 1637 Level-0 table #55: started
+2018/04/20-09:35:14.974 1637 Level-0 table #55: 3319336 bytes OK
+2018/04/20-09:35:14.977 1637 Delete type=0 #50
+2018/04/20-09:35:16.453 1637 Level-0 table #57: started
+2018/04/20-09:35:16.652 1637 Level-0 table #57: 3330260 bytes OK
+2018/04/20-09:35:16.657 1637 Delete type=0 #54
+2018/04/20-09:40:13.777 1637 Level-0 table #59: started
+2018/04/20-09:40:13.979 1637 Level-0 table #59: 3330260 bytes OK
+2018/04/20-09:40:13.984 1637 Delete type=0 #56
+2018/04/20-10:35:06.893 1637 Level-0 table #61: started
+2018/04/20-10:35:07.109 1637 Level-0 table #61: 3330867 bytes OK
+2018/04/20-10:35:07.113 1637 Delete type=0 #58
+2018/04/20-10:35:07.116 1637 Compacting 4@0 + 2@1 files
+2018/04/20-10:35:07.428 1637 Generated table #62@0: 1 keys, 3330263 bytes
+2018/04/20-10:35:07.432 1637 Generated table #63@0: 2 keys, 338 bytes
+2018/04/20-10:35:07.432 1637 Compacted 4@0 + 2@1 files => 3330601 bytes
+2018/04/20-10:35:07.436 1637 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/04/20-10:35:07.437 1637 Delete type=2 #52
+2018/04/20-10:35:07.438 1637 Delete type=2 #53
+2018/04/20-10:35:07.438 1637 Delete type=2 #55
+2018/04/20-10:35:07.439 1637 Delete type=2 #57
+2018/04/20-10:35:07.441 1637 Delete type=2 #59
+2018/04/20-10:35:07.443 1637 Delete type=2 #61
+2018/04/20-10:43:50.964 1637 Level-0 table #65: started
+2018/04/20-10:43:51.216 1637 Level-0 table #65: 3330503 bytes OK
+2018/04/20-10:43:51.221 1637 Delete type=0 #60
+2018/04/20-11:35:06.715 1637 Level-0 table #67: started
+2018/04/20-11:35:06.904 1637 Level-0 table #67: 3330682 bytes OK
+2018/04/20-11:35:06.907 1637 Delete type=0 #64
+2018/04/20-11:39:51.940 1637 Level-0 table #69: started
+2018/04/20-11:39:52.341 1637 Level-0 table #69: 3330505 bytes OK
+2018/04/20-11:39:52.350 1637 Delete type=0 #66
+2018/04/20-12:35:07.377 1637 Level-0 table #71: started
+2018/04/20-12:35:07.639 1637 Level-0 table #71: 3331153 bytes OK
+2018/04/20-12:35:07.647 1637 Delete type=0 #68
+2018/04/20-12:35:07.650 1637 Compacting 4@0 + 2@1 files
+2018/04/20-12:35:07.978 1637 Generated table #72@0: 1 keys, 3330267 bytes
+2018/04/20-12:35:07.983 1637 Generated table #73@0: 2 keys, 337 bytes
+2018/04/20-12:35:07.983 1637 Compacted 4@0 + 2@1 files => 3330604 bytes
+2018/04/20-12:35:07.988 1637 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/04/20-12:35:07.989 1637 Delete type=2 #62
+2018/04/20-12:35:07.990 1637 Delete type=2 #63
+2018/04/20-12:35:07.991 1637 Delete type=2 #65
+2018/04/20-12:35:07.992 1637 Delete type=2 #67
+2018/04/20-12:35:07.993 1637 Delete type=2 #69
+2018/04/20-12:35:07.994 1637 Delete type=2 #71
+2018/04/20-12:35:13.991 1637 Level-0 table #75: started
+2018/04/20-12:35:14.257 1637 Level-0 table #75: 3330561 bytes OK
+2018/04/20-12:35:14.270 1637 Delete type=0 #70
+2018/04/20-12:35:15.645 1637 Level-0 table #77: started
+2018/04/20-12:35:15.846 1637 Level-0 table #77: 3319624 bytes OK
+2018/04/20-12:35:15.850 1637 Delete type=0 #74
+2018/04/20-13:35:06.817 1637 Level-0 table #79: started
+2018/04/20-13:35:07.051 1637 Level-0 table #79: 3319780 bytes OK
+2018/04/20-13:35:07.055 1637 Delete type=0 #76
+2018/04/20-14:15:09.661 1637 Level-0 table #81: started
+2018/04/20-14:15:09.857 1637 Level-0 table #81: 3319865 bytes OK
+2018/04/20-14:15:09.860 1637 Delete type=0 #78
+2018/04/20-14:15:09.866 1637 Compacting 4@0 + 2@1 files
+2018/04/20-14:15:10.091 1637 Generated table #82@0: 1 keys, 3319624 bytes
+2018/04/20-14:15:10.094 1637 Generated table #83@0: 2 keys, 337 bytes
+2018/04/20-14:15:10.094 1637 Compacted 4@0 + 2@1 files => 3319961 bytes
+2018/04/20-14:15:10.097 1637 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/04/20-14:15:10.097 1637 Delete type=2 #72
+2018/04/20-14:15:10.098 1637 Delete type=2 #73
+2018/04/20-14:15:10.098 1637 Delete type=2 #75
+2018/04/20-14:15:10.099 1637 Delete type=2 #77
+2018/04/20-14:15:10.100 1637 Delete type=2 #79
+2018/04/20-14:15:10.100 1637 Delete type=2 #81

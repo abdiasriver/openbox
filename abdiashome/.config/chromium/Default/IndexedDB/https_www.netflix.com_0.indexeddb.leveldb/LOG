@@ -1,0 +1,27 @@
+2018/04/21-01:28:04.163 9746 Reusing MANIFEST /home/abdias/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/04/21-01:28:04.164 9746 Recovering log #9
+2018/04/21-01:28:04.176 9746 Reusing old log /home/abdias/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000009.log 
+2018/04/21-01:42:27.633 15827 Level-0 table #13: started
+2018/04/21-01:42:27.674 15827 Level-0 table #13: 2026739 bytes OK
+2018/04/21-01:42:27.680 15827 Delete type=0 #9
+2018/04/21-02:26:28.780 15827 Level-0 table #15: started
+2018/04/21-02:26:28.821 15827 Level-0 table #15: 2107739 bytes OK
+2018/04/21-02:26:28.826 15827 Delete type=0 #12
+2018/04/21-03:15:20.971 15827 Level-0 table #17: started
+2018/04/21-03:15:21.026 15827 Level-0 table #17: 2071371 bytes OK
+2018/04/21-03:15:21.043 15827 Delete type=0 #14
+2018/04/21-03:15:21.063 15827 Compacting 4@0 + 1@1 files
+2018/04/21-03:15:21.101 15827 Generated table #18@0: 15 keys, 12146 bytes
+2018/04/21-03:15:21.101 15827 Compacted 4@0 + 1@1 files => 12146 bytes
+2018/04/21-03:15:21.104 15827 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/04/21-03:15:21.104 15827 Delete type=2 #8
+2018/04/21-03:15:21.105 15827 Delete type=2 #10
+2018/04/21-03:15:21.106 15827 Delete type=2 #13
+2018/04/21-03:15:21.106 15827 Delete type=2 #15
+2018/04/21-03:15:21.107 15827 Delete type=2 #17
+2018/04/21-05:46:52.972 15827 Level-0 table #20: started
+2018/04/21-05:46:53.008 15827 Level-0 table #20: 1701599 bytes OK
+2018/04/21-05:46:53.013 15827 Delete type=0 #16
+2018/04/21-08:40:45.719 15827 Level-0 table #22: started
+2018/04/21-08:40:45.759 15827 Level-0 table #22: 1769307 bytes OK
+2018/04/21-08:40:45.765 15827 Delete type=0 #19

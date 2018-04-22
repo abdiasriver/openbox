@@ -1,0 +1,6 @@
+2018/04/21-15:37:06.386 32457 Reusing MANIFEST /home/abdias/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/04/21-15:37:06.386 32457 Recovering log #3
+2018/04/21-15:37:06.392 32457 Reusing old log /home/abdias/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2018/04/21-15:37:07.059 15827 Level-0 table #5: started
+2018/04/21-15:37:07.094 15827 Level-0 table #5: 1275802 bytes OK
+2018/04/21-15:37:07.116 15827 Delete type=0 #3

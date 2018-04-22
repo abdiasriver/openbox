@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Профессиональный речь признания текстового редактора. Точная, свободный, простой в использовании и не ограничен."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Speechnotes | Диктант Блокнот"
+   }
+}

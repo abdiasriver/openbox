@@ -1,0 +1,12 @@
+2018/04/20-14:15:29.732 27629 Reusing MANIFEST /home/abdias/.config/chromium/Default/Session Storage/MANIFEST-000001
+2018/04/20-14:15:29.732 27629 Recovering log #4
+2018/04/20-14:15:29.733 27629 Reusing old log /home/abdias/.config/chromium/Default/Session Storage/000004.log 
+2018/04/21-09:40:44.840 28294 Level-0 table #8: started
+2018/04/21-09:40:44.844 28294 Level-0 table #8: 20862 bytes OK
+2018/04/21-09:40:44.847 28294 Delete type=0 #4
+2018/04/21-11:44:44.912 28294 Compacting 1@1 + 1@2 files
+2018/04/21-11:44:44.917 28294 Generated table #9@1: 104 keys, 5488 bytes
+2018/04/21-11:44:44.917 28294 Compacted 1@1 + 1@2 files => 5488 bytes
+2018/04/21-11:44:44.920 28294 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/04/21-11:44:44.920 28294 Delete type=2 #5
+2018/04/21-11:44:44.920 28294 Delete type=2 #8

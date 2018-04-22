@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "テキストエディタを認識プロフェッショナルスピーチ。使いやすい＆無制限、無料、正確な。"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Speechnotes | ディクテーションメモ帳"
+   }
+}

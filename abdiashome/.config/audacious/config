@@ -1,0 +1,6 @@
+
+[audacious]
+record=FALSE
+
+[skins]
+skin=/usr/share/audacious/Skins/Default
