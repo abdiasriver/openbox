@@ -12,7 +12,8 @@
 #pacaur -S kickshaw ob-autostart xdg-user-dirs-gtk-update
 
 #polybar
-
+#openbox key bindings
+#rofr.sh -r
 #jgmenu
 #.config/opebox/autostart
 
